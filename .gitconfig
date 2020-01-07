@@ -1,0 +1,10 @@
+[user]
+	name = hmqgg
+	email = mitchx7@outlook.com
+[core]
+	autocrlf = true
+[difftool "sourcetree"]
+	cmd = '' \"$LOCAL\" \"$REMOTE\"
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
